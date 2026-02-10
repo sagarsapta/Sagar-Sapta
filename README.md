@@ -1,5 +1,4 @@
 
-🚀 BCA Student | Aspiring Data Science & AI/ML | Python | SQL | Excel | Data Analysis & Machine Learning.
 <!-- =============================
    GitHub Profile — Sagar Sapta
    Professional | Recruiter Ready
