@@ -24,7 +24,7 @@
 
 🚀 I am passionate about building real-world projects and learning new technologies.
 
-I enjoy working across:
+   I enjoy working across:
 
 - 📊 Learning Data Science & Machine Learning
 - 📱 Working on Real World Data And create a Models
@@ -39,7 +39,7 @@ I enjoy working across:
 - 📊 **Data Wrangling & Analysis** : Pandas, NumPy, Ms Excel, EDA, Data Cleaning
 - 📊 **Visualization & BI** : Matplotlib, Seaborn, Power BI, Tableau
 - 🗄️ **Databases** : SQL, MySQL, SQLite, Joins, Window Functions
-- 🧰 **Tools**: Git, GitHub, VS Code,  Jupyter Notebook
+- 🧰 **Tools**: Git, GitHub, Vercel, VS Code,  Jupyter Notebook
 
 ---
 
@@ -51,12 +51,29 @@ I enjoy working across:
 
 ---
 
+## 🎯 What I’m Focusing On
+
+- 📊 Strengthening Data Science fundamentals (Python, SQL, EDA)
+- 🤖 Learning Machine Learning concepts with hands-on projects
+- 📈 Building data analysis & visualization projects using real-world datasets
+- 🧠 Improving problem-solving and analytical thinking
+- 🚀 Creating a strong portfolio for internships & entry-level opportunities
+
+---
+
 ## 📊 GitHub Stats
 
 ![Sagar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
 
 ---
 
+## 🤝 Open To
+
+✔ Internship / Entry-level Data analysis & Data sceince
+✔ Startup & hackathon collaborations  
+✔ Data Analyst and Data sceince projects
+
+---
 ## 🔗 Connect With Me
 
 - 💼 GitHub: https://github.com/saptasagar0044
@@ -65,4 +82,4 @@ I enjoy working across:
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center"><i>Thanks for visiting — Be happy to connect & collaborate With Us🚀</i></p>
