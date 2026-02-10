@@ -62,7 +62,9 @@
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saptasagar0044&layout=compact&theme=radical)
+
 
 ---
 
