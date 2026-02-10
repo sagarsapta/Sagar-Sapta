@@ -35,13 +35,11 @@ I enjoy working across:
 
 ## 🛠️ Skills & Tools
 
-- 💻 Programing : 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white),
-![C++(Basic)](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- 📊 Data : Pandas, NumPy, Ms Excel, EDA, Data Cleaning
--     Visualization & BI : Matplotlib, Seaborn, Power BI, Tableau
--     Databases : SQL, MySQL, SQLite, Joins, Window Functions
-- 🧰 Tools: Git, GitHub, VS Code,  Jupyter Notebook
+- 💻 **Programing** : Python , C++(Basic)
+- 📊 **Data Wrangling & Analysis** : Pandas, NumPy, Ms Excel, EDA, Data Cleaning
+- 📊 **Visualization & BI** : Matplotlib, Seaborn, Power BI, Tableau
+- 🗄️ **Databases** : SQL, MySQL, SQLite, Joins, Window Functions
+- 🧰 **Tools**: Git, GitHub, VS Code,  Jupyter Notebook
 
 ---
 
@@ -55,15 +53,15 @@ I enjoy working across:
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptasagar0044&show_icons=true&theme=tokyonight)
+![Sagar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saptasagar0044&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect With Me
 
 - 💼 GitHub: https://github.com/saptasagar0044
-- 📧 Email: your_email@gmail.com
-- 🔗 LinkedIn: (add link)
+- 📧 Email: saptasgar0044@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sagarsapta/
 
 ---
 
