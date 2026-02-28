@@ -44,7 +44,7 @@
 
 ## 📌 Projects
 
-- 🛒 **Python Shopping System**  -  In-memory data structures
+- 🛒 **Shopping System Using Python**  -  In-memory data structures
 - 🏋️‍♂️ **Workout App**  –  React Native (Expo) Using Google Antigravity 
 - 📊 **Retail Sales Analysis**  –  Walmart Dataset
 
