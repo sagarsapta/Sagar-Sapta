@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm <b>Sagar Sapta</b></h1>
 
 <p align="center">
-🚀 Aspiring Data Science & AI/ML • Data Analysis & Machine Learnin • Problem Solver<br>
+🚀 Aspiring Data Science & AI/ML • Data Analysis & Machine Learning • Problem Solver<br>
 🎓 BCA in DataScience | VNSGU University <br>
 📍 Surat, Gujarat — India
 </p>
