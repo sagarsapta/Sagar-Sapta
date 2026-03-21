@@ -14,7 +14,8 @@
 
 <p align="center">
 <a href="mailto:saptasagar0044@gmail.com">📧 Email</a> •
-<a href="https://github.com/saptasagar0044">💻 GitHub</a> •
+<a href="https://github.com/sagarsapta">💻 GitHub</a> •
+<a href="https://linkedin.com/in/sagarsapta/">💻 Linkedin</a> •
 <a href="https://leetcode.com">🧠 LeetCode</a>
 </p>
 
@@ -38,7 +39,7 @@
 - 📊 **Data Wrangling & Analysis** :  Pandas, NumPy, Ms Excel, EDA, Data Cleaning
 - 📊 **Visualization & BI** :  Matplotlib, Seaborn, Power BI, Tableau
 - 🗄️ **Databases** :  SQL, MySQL, SQLite, Joins, Window Functions
-- 🧰 **Tools**:  Git, GitHub, Vercel, VS Code,  Jupyter Notebook, 10+ Ai With Working
+- 🧰 **Tools**:  Git, GitHub, Vercel, VS Code, Jupyter Notebook, 10+ Ai With Working
 
 ---
 
