@@ -48,6 +48,7 @@
 - 🛒 **Shopping System Using Python**  -  In-memory data structures
 - 🏋️‍♂️ **Workout App**  –  React Native (Expo) Using Google Antigravity 
 - 📊 **Retail Sales Analysis**  –  Walmart Dataset
+- ☁️ **Real-Time-Weather-Forecast-App**  - weather data and OpenWeatherMap API 🌍 using create this app
 
 ---
 
