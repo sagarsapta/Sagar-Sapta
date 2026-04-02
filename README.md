@@ -40,7 +40,7 @@
 - 📊 **Data Wrangling & Analysis** :  Pandas, NumPy, Ms Excel, EDA, Data Cleaning
 - 📊 **Visualization & BI** :  Matplotlib, Seaborn, Power BI, Tableau
 - 🗄️ **Databases** :  SQL, MySQL, SQLite, Joins, Window Functions
-- 🧰 **Tools**:  Git, GitHub, Vercel, VS Code, Jupyter Notebook, 10+ Ai With Working
+- 🧰 **Tools**:  Git, GitHub, Vercel, VS Code, Jupyter Notebook
 
 ---
 
@@ -72,7 +72,6 @@
 ---
 ## 🔗 Connect With Me
 
-- 💼 GitHub: https://github.com/saptasagar0044
 - 📧 Email: saptasgar0044@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sagarsapta/
 
